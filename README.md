@@ -1,7 +1,7 @@
 # Denis Otieno Bollo - Portfolio Website
 
 # Project url
-Visit [project](online-resume3.onrender.com)
+Visit [online_resume](online-resume3.onrender.com)
 
 ## Overview
 
@@ -44,7 +44,7 @@ This is a personal portfolio website for Denis Otieno Bollo, showcasing his prof
 
 - Download or clone the repository.
 
-- Open index.html in a web browser.
+- Open [online_resume](https://online-resume3.onrender.com/) in a web browser.
 
 - Ensure the style.css and image files are in the correct directories.
 
