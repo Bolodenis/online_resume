@@ -1,7 +1,7 @@
 # Denis Otieno Bollo - Portfolio Website
 
 # Project url
-Visit [online_resume](online-resume3.onrender.com)
+visit [online_resume](https://online-resume3.onrender.com/) to access my beautiful blog
 
 ## Overview
 
