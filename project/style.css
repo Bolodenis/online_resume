@@ -3,12 +3,15 @@ body {
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
-    height: 100vh;
+    height: 60vh;
     margin-left:9px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 1.6em;
 }
 
+.text-start{
+    font-weight: bold;
+}
 
 #about_sec {
     width: 100%;
