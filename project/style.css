@@ -4,7 +4,7 @@ body {
     background-repeat: no-repeat;
     background-position: center;
     height: 100vh;
-    margin: 0;
+    margin-left:9px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 1.6em;
 }
